@@ -1,0 +1,8 @@
+
+NOME="GABRIEL"
+
+print(NOME)
+
+NUMERO = 20
+
+print(NUMERO)
